@@ -4,10 +4,6 @@
            fetch="git://android.git.kernel.org/"
            review="review.source.android.com" />
 
-  <remote  name="github"
-           fetch="git://github.com/"
-           review="review.cyanogenmod.com" />
-
   <remote  name="gh" 
 	   fetch="git://github.com/" />
 
@@ -149,8 +145,8 @@
   <project path="packages/apps/Gallery3D" name="platform/packages/apps/Gallery3D" />
   <project path="packages/apps/HTMLViewer" name="platform/packages/apps/HTMLViewer" />
   <project path="packages/apps/Launcher2" name="platform/packages/apps/Launcher2" />
-  <!--project path="packages/apps/Mms" name="CyanogenMod/android_packages_apps_Mms" remote="github" / -->
-  <!--project path="packages/apps/Mms" name="platform/packages/apps/Mms" / -->
+  <!--project path="packages/apps/Mms" name="carz2/android_packages_apps_Mms" remote="gh" revision="gingerbread" /-->
+  <project path="packages/apps/Mms" name="platform/packages/apps/Mms" />
   <project path="packages/apps/Music" name="platform/packages/apps/Music" />
   <project path="packages/apps/Nfc" name="platform/packages/apps/Nfc" />
   <project path="packages/apps/PackageInstaller" name="platform/packages/apps/PackageInstaller" />
