@@ -186,5 +186,6 @@
   <project path="system/netd" name="platform/system/netd" />
   <project path="system/vold" name="platform/system/vold" />
   <project path="system/wlan/ti" name="platform/system/wlan/ti" />
+  <project path="android" name="carz2/manifest-gingerbread-DS" remote="gh" revision="gingerbread" />
 
 </manifest>
