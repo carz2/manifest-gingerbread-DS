@@ -156,7 +156,7 @@
   <project path="packages/apps/Music" name="platform/packages/apps/Music" />
   <project path="packages/apps/Nfc" name="platform/packages/apps/Nfc" />
   <project path="packages/apps/PackageInstaller" name="platform/packages/apps/PackageInstaller" />
-  <project path="packages/apps/Pacman" name="CyanogenMod/android_packages_apps_Pacman" remote="gh" />
+  <project path="packages/apps/Pacman" name="carz2/android_packages_apps_Pacman" remote="gh" revision="6355sapphire" />
   <project path="packages/apps/Phone" name="carz2/android_packages_apps_Phone.git" remote="gh" revision="6355sapphire" />
   <project path="packages/apps/Protips" name="platform/packages/apps/Protips" />
   <project path="packages/apps/Provision" name="platform/packages/apps/Provision" />
