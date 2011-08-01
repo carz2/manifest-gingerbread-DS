@@ -88,6 +88,7 @@
   <project path="external/nist-sip" name="platform/external/nist-sip" />
   <project path="external/oauth" name="platform/external/oauth" />
   <project path="external/openssl" name="platform/external/openssl" />
+  <project path="external/openvpn" name="CyanogenMod/android_external_openvpn" remote="gh" />
   <project path="external/oprofile" name="platform/external/oprofile" />
   <project path="external/ping" name="platform/external/ping" />
   <project path="external/ppp" name="platform/external/ppp" />
