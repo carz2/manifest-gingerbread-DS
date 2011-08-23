@@ -197,11 +197,11 @@
   <project path="system/vold" name="platform/system/vold" />
   <project path="system/wlan/ti" name="platform/system/wlan/ti" />
   <project path="vendor/tmobile/apps/ThemeChooser" name="carz2/themes-platform-vendor-tmobile-apps-ThemeChooser" remote="gh" revision="6355sapphire" />
-  <project path="vendor/tmobile/libs/com.tmobile.themes" name="themes-platform-vendor-tmobile-libs-com.tmobile.themes" remote="themes" revision="refs/heads/master" />
-  <project path="vendor/tmobile/providers/ThemeManager" name="themes-platform-vendor-tmobile-providers-ThemeManager" remote="themes" revision="refs/heads/master" />
-  <project path="vendor/tmobile/themes/Androidian" name="themes-platform-vendor-tmobile-themes-Androidian" remote="themes" revision="refs/heads/master" />
-  <project path="vendor/tmobile/themes/Cyanbread" name="themes-platform-vendor-tmobile-themes-Cyanbread" remote="themes" revision="refs/heads/master" />
-  <project path="vendor/tmobile/products/themes" name="themes-platform-vendor-tmobile-products-themes" remote="themes" revision="refs/heads/master" />
+  <project path="vendor/tmobile/libs/com.tmobile.themes" name="carz2/themes-platform-vendor-tmobile-libs-com.tmobile.themes" remote="gh" revision="6355sapphire" />
+  <project path="vendor/tmobile/providers/ThemeManager" name="carz2/themes-platform-vendor-tmobile-providers-ThemeManager" remote="gh" revision="6355sapphire" />
+  <project path="vendor/tmobile/themes/Androidian" name="carz2/themes-platform-vendor-tmobile-themes-Androidian" remote="gh" revision="6355sapphire" />
+  <project path="vendor/tmobile/themes/Cyanbread" name="carz2/themes-platform-vendor-tmobile-themes-Cyanbread" remote="gh" revision="6355sapphire" />
+  <project path="vendor/tmobile/products/themes" name="carz2/themes-platform-vendor-tmobile-products-themes" remote="gh" revision="6355sapphire" />
 
   <project path="android_manifest" name="carz2/manifest-gingerbread-DS" remote="gh" revision="6355sapphire" />
 
