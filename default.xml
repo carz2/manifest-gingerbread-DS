@@ -166,7 +166,7 @@
   <project path="packages/apps/QuickSearchBox" name="platform/packages/apps/QuickSearchBox" />
   <project path="packages/apps/Settings" name="carz2/android_packages_apps_Settings.git" remote="gh" revision="6355sapphire" />
   <project path="packages/apps/SoundRecorder" name="carz2/GB-packages_apps_SoundRecorder" remote="gh" revision="6355sapphire" />
-  <project path="packages/apps/SpeechRecorder" name="platform/packages/apps/SpeechRecorder" />
+  <!--project path="packages/apps/SpeechRecorder" name="platform/packages/apps/SpeechRecorder" /-->
   <project path="packages/apps/Stk" name="platform/packages/apps/Stk" />
   <project path="packages/apps/Tag" name="platform/packages/apps/Tag" />
   <project path="packages/apps/VoiceDialer" name="platform/packages/apps/VoiceDialer" />
