@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <remote  name="korg"
-           fetch="git://android.git.kernel.org/"
-           review="review.source.android.com" />
+  <remote  name="aosp"
+           fetch="https://android.googlesource.com/" />
 
   <remote  name="gh" 
 	   fetch="git://github.com/" />
@@ -11,7 +10,7 @@
            fetch="git://github.com/tmobile" />
 
   <default revision="gingerbread"
-           remote="korg" />
+           remote="aosp" />
 
   <project path="build" name="carz2/GB-build" remote="gh" revision="6355sapphire" >
     <copyfile src="core/root.mk" dest="Makefile" />
