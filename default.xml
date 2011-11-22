@@ -20,7 +20,7 @@
   <project path="bootable/diskinstaller" name="platform/bootable/diskinstaller" />
   <project path="bootable/recovery" name="platform/bootable/recovery" />
   <!--project path="cts" name="platform/cts" /-->
-  <project path="dalvik" name="ezterry/GB-platform_dalvik" remote="gh" revision="gingerbread" />
+  <project path="dalvik" name="carz2/GB-platform_dalvik" remote="gh" revision="6355sapphire" />
   <project path="development" name="ezterry/GB-development" remote="gh" revision="gingerbread" />
   <project path="device/common" name="device/common" />
   <project path="device/htc/common" name="device/htc/common" />
@@ -186,7 +186,7 @@
   <project path="packages/wallpapers/MagicSmoke" name="platform/packages/wallpapers/MagicSmoke" />
   <project path="packages/wallpapers/MusicVisualization" name="platform/packages/wallpapers/MusicVisualization" />
   <project path="prebuilt" name="platform/prebuilt" />
-  <project path="sdk" name="platform/sdk" revision="tools_r7" />
+  <project path="sdk" name="CyanogenMod/android_sdk" revision="tools_r7" />
   <project path="system/bluetooth" name="platform/system/bluetooth" />
   <project path="system/core" name="carz2/GB-system_core" remote="gh" revision="6355sapphire" />
   <!-- project path="system/core" name="platform/system/core" / -->
