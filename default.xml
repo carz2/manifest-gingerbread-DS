@@ -152,7 +152,7 @@
   <project path="packages/apps/Gallery" name="platform/packages/apps/Gallery" />
   <project path="packages/apps/Gallery3D" name="platform/packages/apps/Gallery3D" />
   <project path="packages/apps/HTMLViewer" name="platform/packages/apps/HTMLViewer" />
-  <project path="packages/apps/Launcher2" name="platform/packages/apps/Launcher2" />
+  <project path="packages/apps/Launcher2" name="carz2/android_packages_apps_Launcher2" remote="gh" revision="6355sapphire" />
   <project path="packages/apps/Mms" name="carz2/android_packages_apps_Mms" remote="gh" revision="6355sapphire" />
   <!--project path="packages/apps/Mms" name="platform/packages/apps/Mms" /-->
   <project path="packages/apps/Music" name="platform/packages/apps/Music" />
