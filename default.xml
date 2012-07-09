@@ -9,7 +9,7 @@
   <remote  name="themes"
            fetch="git://github.com/tmobile" />
 
-  <default revision="refs/tags/android-2.3.7_r1"
+  <default revision="gingerbread"
            remote="aosp" />
 
   <project path="build" name="carz2/GB-build" remote="gh" revision="6355sapphire" >
