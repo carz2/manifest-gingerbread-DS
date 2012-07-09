@@ -9,7 +9,7 @@
   <remote  name="themes"
            fetch="git://github.com/tmobile" />
 
-  <default revision="refs/tags/android-2.3.7_r1"
+  <default revision="gingerbread"
            remote="aosp" />
 
   <project path="build" name="carz2/GB-build" remote="gh" revision="6355sapphire" >
@@ -119,7 +119,7 @@
   <project path="external/xmlwriter" name="platform/external/xmlwriter" />
   <project path="external/yaffs2" name="platform/external/yaffs2" />
   <project path="external/zlib" name="platform/external/zlib" />
-  <project path="frameworks/base" name="carz2/GB-framework_base" remote="gh" revision="6355sapphire" />
+  <project path="frameworks/base" name="carz2/android_frameworks_base" remote="gh" revision="aosp6355sapphire" />
   <!--  project path="frameworks/base" name="platform/frameworks/base" / -->
   <project path="frameworks/ex" name="platform/frameworks/ex" />
   <project path="frameworks/opt/emoji" name="platform/frameworks/opt/emoji" />
