@@ -20,7 +20,7 @@
   <project path="bootable/diskinstaller" name="platform/bootable/diskinstaller" />
   <project path="bootable/recovery" name="platform/bootable/recovery" />
   <!--project path="cts" name="platform/cts" /-->
-  <project path="dalvik" name="carz2/GB-platform_dalvik" remote="gh" revision="6355sapphire" />
+  <project path="dalvik" name="carz2/android_platform_dalvik" remote="gh" revision="6355sapphire" />
   <project path="development" name="ezterry/GB-development" remote="gh" revision="gingerbread" />
   <project path="device/common" name="device/common" />
   <project path="device/htc/common" name="device/htc/common" />
